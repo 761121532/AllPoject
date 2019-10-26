@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.example.demo.dao.ImagesMapper">
+
+    <select id="findAllImages" parameterType="com.example.demo.entity.images" resultType="com.example.demo.entity.images">
+        SELECT * FROM images
+    </select>
+
+    <select id="findCategoryImages" resultType="com.example.demo.entity.images">
+        SELECT * FROM  images WHERE category_id = #{a}
+    </select>
+
+    <select id="findCategoryImage" resultType="com.example.demo.entity.images">
+        SELECT * FROM  images where id = #{a}
+    </select>
+
+</mapper>

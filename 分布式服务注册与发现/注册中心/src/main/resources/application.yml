@@ -1,0 +1,13 @@
+server:
+  port: 8761
+eureka:
+  instance:
+    hostname: eureka-server  #eureka实例的主机名
+
+  client:
+    register-with-eureka: false   #不把eureka 本身注册在注册中心   不作高可用的情况下  写false
+    fetch-registry: false   #不从 eureka 上获取注册信息
+    service-url:            #指定注册中心的地址的   非常重要
+      defaultZone : http://45.123.197.14:8761/eureka
+
+#启用注册中心需要在启动类上加应该注解  @EnableEurekaServer

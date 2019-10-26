@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.example.demo.dao.GoodsMapper">
+
+    <select id="findAllpictrue" parameterType="com.example.demo.entity.HomeMessage" resultType="com.example.demo.entity.HomeMessage">
+        SELECT * FROM homepage
+    </select>
+
+    <select id="findAllGoodsList" resultType="com.example.demo.entity.goodsList">
+        SELECT * FROM goodslist limit #{a},10
+    </select>
+
+    <select id="findGoodsById" resultType="com.example.demo.entity.goodsList">
+        SELECT * FROM goodslist WHERE id = #{a}
+    </select>
+
+    <select id="findDesc" resultType="com.example.demo.entity.desc">
+        SELECT * FROM getdesc WHERE images_id = #{a}
+    </select>
+
+</mapper>

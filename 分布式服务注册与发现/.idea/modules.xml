@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/注册中心/注册中心.iml" filepath="$PROJECT_DIR$/注册中心/注册中心.iml" />
+      <module fileurl="file://$PROJECT_DIR$/消费者/消费者.iml" filepath="$PROJECT_DIR$/消费者/消费者.iml" />
+      <module fileurl="file://$PROJECT_DIR$/生产者/生产者.iml" filepath="$PROJECT_DIR$/生产者/生产者.iml" />
+    </modules>
+  </component>
+</project>

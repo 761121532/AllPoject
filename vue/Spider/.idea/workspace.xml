@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Spider:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6812fa7e-4a52-4e50-9086-faaa9a9eb95e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="module-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PVRN45185zJWhyJwJvL6bpbEZC" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\vue\Spider\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\vue\Spider\src\main\resources" />
+      <recent name="D:\vue\Spider\src\main\java\spider" />
+      <recent name="D:\vue\Spider\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.金字塔">
+    <configuration name="内业" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="一百个内业.内业" />
+      <module name="Spider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="一百个内业.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="金字塔" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="棋瓜的工作.金字塔" />
+      <module name="Spider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="棋瓜的工作.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="提取a标签" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="spider.提取a标签" />
+      <module name="Spider" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="https" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cctv.https" />
+      <module name="Spider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cctv.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="爬取js" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="spider.爬取js" />
+      <module name="Spider" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.金字塔" />
+        <item itemvalue="Application.内业" />
+        <item itemvalue="Application.爬取js" />
+        <item itemvalue="Application.提取a标签" />
+        <item itemvalue="Application.https" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6812fa7e-4a52-4e50-9086-faaa9a9eb95e" name="Default Changelist" comment="" />
+      <created>1560870370938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560870370938</updated>
+      <workItem from="1560870372342" duration="148000" />
+      <workItem from="1560920061199" duration="1979000" />
+      <workItem from="1560927046648" duration="130000" />
+      <workItem from="1560927182449" duration="948000" />
+      <workItem from="1560928167366" duration="2048000" />
+      <workItem from="1560938112203" duration="605000" />
+      <workItem from="1561095163525" duration="633000" />
+      <workItem from="1561101195811" duration="4000" />
+      <workItem from="1563010806641" duration="2238000" />
+      <workItem from="1563977090029" duration="996000" />
+      <workItem from="1563979449719" duration="97000" />
+      <workItem from="1563979564255" duration="186000" />
+      <workItem from="1563979772427" duration="79000" />
+      <workItem from="1564053327372" duration="2769000" />
+      <workItem from="1564140808843" duration="6160000" />
+      <workItem from="1564205081843" duration="6621000" />
+      <workItem from="1564235933843" duration="2081000" />
+      <workItem from="1564311169257" duration="19000" />
+      <workItem from="1564311673752" duration="242000" />
+      <workItem from="1564311926210" duration="5000" />
+      <workItem from="1564311942199" duration="916000" />
+      <workItem from="1564393395338" duration="2816000" />
+      <workItem from="1564463536087" duration="252000" />
+      <workItem from="1564640034946" duration="902000" />
+      <workItem from="1564640996271" duration="3836000" />
+      <workItem from="1564644923257" duration="1704000" />
+      <workItem from="1564656649209" duration="5386000" />
+      <workItem from="1564728005491" duration="5000" />
+      <workItem from="1564756666538" duration="3000" />
+      <workItem from="1564987604894" duration="20000" />
+      <workItem from="1564987745535" duration="84000" />
+      <workItem from="1565957235941" duration="4156000" />
+      <workItem from="1566125766437" duration="408000" />
+      <workItem from="1566295176694" duration="2668000" />
+      <workItem from="1566297918077" duration="2676000" />
+      <workItem from="1566364814836" duration="1367000" />
+      <workItem from="1566366187915" duration="2000" />
+      <workItem from="1566366263614" duration="10234000" />
+      <workItem from="1566388037398" duration="664000" />
+      <workItem from="1566388738203" duration="120000" />
+      <workItem from="1566388871381" duration="223000" />
+      <workItem from="1566389245542" duration="303000" />
+      <workItem from="1566389861149" duration="1902000" />
+      <workItem from="1566468637959" duration="27000" />
+      <workItem from="1566468689592" duration="9000" />
+      <workItem from="1566815533162" duration="1617000" />
+      <workItem from="1566818692498" duration="1595000" />
+      <workItem from="1567087624989" duration="1248000" />
+      <workItem from="1567143141268" duration="46000" />
+      <workItem from="1567143472090" duration="122000" />
+      <workItem from="1567143853262" duration="509000" />
+      <workItem from="1567425176195" duration="7899000" />
+      <workItem from="1567924094357" duration="31000" />
+      <workItem from="1567926484713" duration="3733000" />
+      <workItem from="1567942323500" duration="791000" />
+      <workItem from="1568019206530" duration="194000" />
+      <workItem from="1568019641619" duration="2295000" />
+      <workItem from="1568027587058" duration="598000" />
+      <workItem from="1568184690270" duration="478000" />
+      <workItem from="1568212851747" duration="252000" />
+      <workItem from="1568788145664" duration="119000" />
+      <workItem from="1568792487901" duration="176000" />
+      <workItem from="1570079976848" duration="609000" />
+      <workItem from="1570098612730" duration="472000" />
+      <workItem from="1570099262760" duration="10000" />
+      <workItem from="1570253573289" duration="17000" />
+      <workItem from="1570257397788" duration="294000" />
+      <workItem from="1570340262023" duration="90000" />
+      <workItem from="1570716274172" duration="4000" />
+      <workItem from="1570716330670" duration="133000" />
+      <workItem from="1570856699658" duration="308000" />
+      <workItem from="1570857091370" duration="8000" />
+      <workItem from="1571037375422" duration="50000" />
+      <workItem from="1571038893284" duration="3700000" />
+      <workItem from="1571236158351" duration="3000" />
+      <workItem from="1571236293888" duration="4000" />
+      <workItem from="1571297530854" duration="21000" />
+      <workItem from="1571297572195" duration="318000" />
+      <workItem from="1571318265477" duration="5000" />
+      <workItem from="1571389944330" duration="313000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

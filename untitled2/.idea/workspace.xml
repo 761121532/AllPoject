@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6728b0b4-8f91-4048-ad07-0ea14ed507e7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/github.com/PuerkitoBio/goquery/array.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/PuerkitoBio/goquery/array.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/PuerkitoBio/goquery/expand.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/PuerkitoBio/goquery/expand.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/PuerkitoBio/goquery/filter.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/PuerkitoBio/goquery/filter.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/PuerkitoBio/goquery/iteration.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/PuerkitoBio/goquery/iteration.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/PuerkitoBio/goquery/manipulation.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/PuerkitoBio/goquery/manipulation.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/PuerkitoBio/goquery/traversal.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/PuerkitoBio/goquery/traversal.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/PuerkitoBio/goquery/type.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/PuerkitoBio/goquery/type.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/PuerkitoBio/goquery/utilities.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/PuerkitoBio/goquery/utilities.go" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+        <option value="Go Application" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/github.com/PuerkitoBio/goquery" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectId" id="1QYhSD2f7TVKIjFwBHs4ck4HOoD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="12" />
+    <property name="last_opened_file_path" value="E:/java" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\untitled2\src\新建文件夹\treeNode" />
+      <recent name="D:\untitled2\src\新建文件夹" />
+      <recent name="D:\untitled2\src\goCode\文件读取" />
+      <recent name="D:\untitled2\src\goCode" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build goCode/spider/chrome">
+    <configuration name="go build 新建文件夹/http" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="untitled2" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/src/新建文件夹/http/main.go" />
+      <package value="新建文件夹/http" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 新建文件夹/io" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="untitled2" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/src/新建文件夹/io/main.go" />
+      <package value="新建文件夹/io" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 新建文件夹/mysql" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="untitled2" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/src/新建文件夹/mysql/main.go" />
+      <package value="新建文件夹/mysql" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build goCode/spider" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="untitled2" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/src/goCode/spider/spider.go" />
+      <package value="goCode/spider" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build goCode/spider/chrome" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="untitled2" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/src/goCode/spider/chrome/spider.go" />
+      <package value="goCode/spider/chrome" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build goCode/spider/chrome" />
+        <item itemvalue="Go Build.go build goCode/spider" />
+        <item itemvalue="Go Build.go build 新建文件夹/http" />
+        <item itemvalue="Go Build.go build 新建文件夹/mysql" />
+        <item itemvalue="Go Build.go build 新建文件夹/io" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6728b0b4-8f91-4048-ad07-0ea14ed507e7" name="Default Changelist" comment="" />
+      <created>1567953434077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567953434077</updated>
+      <workItem from="1567953435287" duration="1946000" />
+      <workItem from="1568005682552" duration="1572000" />
+      <workItem from="1568008273749" duration="3394000" />
+      <workItem from="1568279536557" duration="6553000" />
+      <workItem from="1568541399984" duration="10723000" />
+      <workItem from="1568617538296" duration="840000" />
+      <workItem from="1568644553108" duration="76000" />
+      <workItem from="1568644650144" duration="105000" />
+      <workItem from="1568644776314" duration="34000" />
+      <workItem from="1569231384483" duration="645000" />
+      <workItem from="1569232043193" duration="39000" />
+      <workItem from="1569232121025" duration="76000" />
+      <workItem from="1569232231227" duration="5756000" />
+      <workItem from="1569302150882" duration="24000" />
+      <workItem from="1569326856980" duration="3838000" />
+      <workItem from="1569387935368" duration="721000" />
+      <workItem from="1569404798990" duration="11041000" />
+      <workItem from="1569474916353" duration="9877000" />
+      <workItem from="1569567389478" duration="623000" />
+      <workItem from="1569582003417" duration="8648000" />
+      <workItem from="1569653522926" duration="604000" />
+      <workItem from="1569654210774" duration="3513000" />
+      <workItem from="1569664634223" duration="1000" />
+      <workItem from="1569665003761" duration="685000" />
+      <workItem from="1569670811023" duration="1211000" />
+      <workItem from="1569673438766" duration="2145000" />
+      <workItem from="1569683259904" duration="962000" />
+      <workItem from="1569734698037" duration="1070000" />
+      <workItem from="1569735773024" duration="2000" />
+      <workItem from="1569736436058" duration="4989000" />
+      <workItem from="1569756349791" duration="115000" />
+      <workItem from="1569756559460" duration="3020000" />
+      <workItem from="1569762744998" duration="4000" />
+      <workItem from="1569763647544" duration="721000" />
+      <workItem from="1569828119187" duration="94000" />
+      <workItem from="1569828727198" duration="25000" />
+      <workItem from="1569843176223" duration="39000" />
+      <workItem from="1569853834293" duration="2000" />
+      <workItem from="1569992834024" duration="2000" />
+      <workItem from="1569993782189" duration="2979000" />
+      <workItem from="1570010377839" duration="1090000" />
+      <workItem from="1570086393412" duration="3506000" />
+      <workItem from="1570099361850" duration="3458000" />
+      <workItem from="1570165309741" duration="7000" />
+      <workItem from="1570180548995" duration="2903000" />
+      <workItem from="1570190051447" duration="2089000" />
+      <workItem from="1570195607595" duration="7626000" />
+      <workItem from="1570253673521" duration="2000" />
+      <workItem from="1570253737436" duration="3012000" />
+      <workItem from="1570258752552" duration="9985000" />
+      <workItem from="1570688161039" duration="9162000" />
+      <workItem from="1570716467402" duration="17729000" />
+      <workItem from="1571037431126" duration="1153000" />
+      <workItem from="1571053114429" duration="17899000" />
+      <workItem from="1571221841602" duration="1482000" />
+      <workItem from="1571236301263" duration="2121000" />
+      <workItem from="1571296083525" duration="1425000" />
+      <workItem from="1571313142797" duration="662000" />
+      <workItem from="1571556395690" duration="612000" />
+      <workItem from="1571577717977" duration="325000" />
+      <workItem from="1571579761754" duration="3113000" />
+      <workItem from="1571635966493" duration="3670000" />
+      <workItem from="1571645388752" duration="1178000" />
+      <workItem from="1571665366394" duration="5456000" />
+      <workItem from="1571729410857" duration="4795000" />
+      <workItem from="1571918699765" duration="599000" />
+      <workItem from="1572445221577" duration="1764000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
